@@ -77,6 +77,9 @@ curl -X POST http://localhost:3000/hotels \
 }
 ```
 
+![Figure 1](https://github.com/mukhlisakb/npv-backend-test-hotel-API/blob/main/assets/picture2.png)
+![Figure 2](https://github.com/mukhlisakb/npv-backend-test-hotel-API/blob/main/assets/picture1.png)
+
 # Conclusion
 
 If you encounter any issues or have questions, feel free to open an issue in this repository or contact me via email [mukhlisakb@gmail.com]. Thank you!
