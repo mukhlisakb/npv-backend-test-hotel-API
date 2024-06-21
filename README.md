@@ -2,32 +2,6 @@
 
 An API for hotel management using Node.js, Express, and PostgreSQL with Sequelize as the ORM.
 
-## Folder Structure
-
-```bash
-npv-backend-test-hotel-API/
-├── docker-compose.yml
-├── Dockerfile
-├── init.sql
-├── package.json
-├── tsconfig.json
-├── wait-for-it.sh
-├── .env
-├── src/
-│   ├── index.ts
-│   ├── controllers/
-│   │   ├── hotelController.ts
-│   ├── models/
-│   │   ├── hotel.ts
-│   ├── routes/
-│   │   ├── hotelRoutes.ts
-│   ├── config/
-│   │   ├── database.ts
-└── dist/
-    ├── (this folder will contain the compiled TypeScript files)
-
-```
-
 ## Prerequisites
 
 - Node.js
